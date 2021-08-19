@@ -1,3 +1,9 @@
 npx create-next-app app_name
 
 npm run dev
+
+npm i gray-matter
+    Permite sacar la meta informacion de Markdown
+
+npm i next-mdx-remote
+    Permite parsear markdown, es libreria especifica para next
